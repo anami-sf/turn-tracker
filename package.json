@@ -1,0 +1,24 @@
+{
+  "name": "turn-tracker",
+  "version": "1.0.0",
+  "description": "MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anami-sf/turn-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anami-sf/turn-tracker/issues"
+  },
+  "homepage": "https://github.com/anami-sf/turn-tracker#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
